@@ -13,7 +13,7 @@
 
 <h2>📄 Certifications(Expected):</h2>
 
-- <b>Pursuing CompTIA Security+]</b>
+- <b>Pursuing CompTIA Security+</b>
 - <b>Pursuing CompTIA Network+</b>
 - <b>Pursuing AWS Cloud Practitioner</b>
 
