@@ -20,9 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoãoMachado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jplmachado
+<a href="https://www.linkedin.com/in/jplmachado/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
