@@ -4,6 +4,7 @@
 
 - <b>Amazon Web Services</b>
   - <b>S3 Bucket Lab (TBD🚧)</b>
+  {Configuring AWS Network Firewall]()
   - <b>EC2 Lab (TBD🚧)</b>
   - <b>Active Directory Lab (TBD🚧)</b>
 - <b>Microsoft Azure</b>
