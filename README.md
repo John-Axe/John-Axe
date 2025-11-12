@@ -1,4 +1,4 @@
-<h1>Hi, I'm João! <br/><a href="https://www.linkedin.com/in/jplmachado/">Cybersecurity Professional</a>, <a href="https://github.com/John-Axe">Python Learner</a>, <a>Aspiring Cloud Engineer</a></h1>
+<h1>Hi, I'm João! <br/><a href="https://www.linkedin.com/in/jplmachado/">Cybersecurity Professional</a>, <a href="https://github.com/John-Axe/100-Days-of-Python-Projects/blob/2d7940f5a0ce317dfa1ce666ff40a90dcbc27eb5/README.md">Python Learner</a>, <a>Aspiring Cloud Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
