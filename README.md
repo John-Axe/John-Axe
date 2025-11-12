@@ -4,7 +4,7 @@
 
 - <b>Amazon Web Services</b>
   - <b>S3 Bucket Lab (TBD🚧)</b>
-  - [Configuring AWS Network Firewall](https://github.com/John-Axe/AWS/blob/main/AWS-Labs/Configure-AWS-Network-Firewall.md)
+  - [Configuring AWS Network Firewall](https://github.com/John-Axe/AWS/blob/d39f397536cd19ae2a34ae6037a1a199221b6d5c/AWS-Labs/Configure-AWS-Network-Firewall/README.md)
   - <b>EC2 Lab (TBD🚧)</b>
   - <b>Active Directory Lab (TBD🚧)</b>
 - <b>Microsoft Azure</b>
