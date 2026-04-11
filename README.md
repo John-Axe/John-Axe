@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=JO%C3%83O%20MACHADO&fontAlign=50&fontAlignY=40&color=gradient&customColorList=6,11,20,24&fontColor=d4aaff&fontSize=58&animation=fadeIn&desc=SOC+ANALYST+%E2%97%88+DETECTION+%26+RESPONSE+%E2%97%88+CYBERSECURITY&descAlign=50&descAlignY=65&descSize=15&descColor=9b72cf"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&height=100&lines=JO%C3%83O+MACHADO)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=THREAT+HUNTER+%7C+DETECTION+ENGINEER+%7C+DFIR;TRIAGING+EDR+%2B+NIDS+%2B+EMAIL;ENGINEERING+DETECTIONS+THAT+FIRE;DANGEROUS+WITH+PYTHON;BAY+AREA+CA+%C2%B7+EN+%C2%B7+PT+%C2%B7+ES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2000&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=THREAT+HUNTER+//+DETECTION+ENGINEER+//+DFIR;TRIAGING+EDR+%2B+NIDS+%2B+EMAIL;ENGINEERING+DETECTIONS+THAT+FIRE;DANGEROUS+WITH+PYTHON;BAY+AREA+CA)](https://git.io/typing-svg)
 
 <br/>
 
