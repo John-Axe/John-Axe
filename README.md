@@ -145,13 +145,9 @@ Spinning up an AD lab to simulate common identity-based attacks — pass-the-has
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=John-Axe&show_icons=true&theme=radical&bg_color=0D0D0D&border_color=7C3AED&icon_color=C084FC&title_color=A855F7&text_color=C084FC&ring_color=7C3AED&count_private=true&include_all_commits=true&cache_seconds=86400)](https://github.com/John-Axe)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=John-Axe&theme=radical&background=0D0D0D&border=7C3AED&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=A855F7&dates=6D28D9)](https://github.com/John-Axe)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Axe&layout=compact&theme=radical&bg_color=0D0D0D&border_color=7C3AED&title_color=A855F7&text_color=C084FC&cache_seconds=86400)](https://github.com/John-Axe)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=John-Axe&theme=radical&no-bg=true&margin-w=8&column=6)](https://github.com/John-Axe)
 
 </div>
 
