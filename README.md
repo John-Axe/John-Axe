@@ -121,26 +121,6 @@ Spinning up an AD lab to simulate common identity-based attacks — pass-the-has
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;CERTS INCOMING
-
-<div align="center">
-
-![](https://img.shields.io/badge/CompTIA-Security%2B-C084FC?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1a0033)
-![](https://img.shields.io/badge/CompTIA-Network%2B-9333EA?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1a0033)
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-A855F7?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a0033)
-
-<br/>
-
-```
-  Security+        ████████████████░░░░  july 2026
-  Network+         ██████████████░░░░░░  july 2026
-  AWS Practitioner ████████████░░░░░░░░  july 2026
-```
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/cIn5fTcjnuqqg/giphy.gif" width="28"/> &nbsp;DIAGNOSTICS
 
 <div align="center">
